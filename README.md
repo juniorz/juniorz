@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I (ocasionally) write at [PlatformOwl.com](https://platformowl.com/).
+
+⭐ are not endorsements but a list of things I want to find again.
+
 <!--
 **juniorz/juniorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
