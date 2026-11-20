@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<!--
 I (ocasionally) write at [PlatformOwl.com](https://platformowl.com/).
+-->
 
 ⭐ are not endorsements, just bookmarks
 
